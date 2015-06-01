@@ -1,0 +1,1 @@
+Demo app and library about how integrate Google voice typing into third party IMEs.
